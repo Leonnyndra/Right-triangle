@@ -1,2 +1,2 @@
 # Right-triangle
-C
+Kode pertama yang saya upload
